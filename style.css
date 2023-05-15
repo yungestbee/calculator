@@ -13,10 +13,10 @@ section{
     display: flex;
     align-items: center;
     justify-content:center ;
-    background-image: url(images.jpeg);
+    background-image: url(abstract-dark-background-with-flowing-colouful-waves_1048-13124.avif);
     background-repeat: no-repeat;
     background-position: center;
-    background: transparent;
+    /* background: transparent; */
     background-size: 100%;
     background-color:#000;
 }
